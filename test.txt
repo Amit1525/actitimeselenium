@@ -1,1 +1,2 @@
-A sample txt file created in the Repo. 
+A sample txt file created in the Repo.
+Adding new line...
